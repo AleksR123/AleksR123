@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AleksR123
-- 👀 I’m interested in ...
+- 👨‍💻 All of my projects are available at: https://github.com/AleksR123
 - 🌱 I’m currently learning Java
 
 
