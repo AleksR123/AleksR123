@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @AleksR123
 - 👨‍💻 All of my projects are available at: https://github.com/AleksR123
 - 🌱 I’m currently learning Java
+- I'm studying at millitary academy "General Mihailo Apostolski" - Skopje 
 - You can contact me on my mail: aleksandarristov@28gmail.com
 
 <!---
